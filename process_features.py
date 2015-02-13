@@ -1,4 +1,6 @@
 
+"""processes initial word2vec features """
+
 import os,sys
 import word2vec
 import numpy as np
