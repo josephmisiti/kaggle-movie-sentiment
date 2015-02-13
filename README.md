@@ -1,6 +1,6 @@
 ##### Introduction
 
-Experiemnts with messing around w/ this Kaggle competition:
+Experiments with classifying sentiment of movie removes
 
 http://www.kaggle.com/c/sentiment-analysis-on-movie-reviews
 
