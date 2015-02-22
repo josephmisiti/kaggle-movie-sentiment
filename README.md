@@ -28,3 +28,11 @@ movie review.
 ```
 python process_features.py > data/word2vec_pos_neg.csv
 ```
+
+##### Notebooks
+
+My code for the Kaggle Movie Sentiment
+
+http://nbviewer.ipython.org/github/josephmisiti/kaggle-movie-sentiment/blob/master/NLTK%20Experiments.ipynb
+
+http://nbviewer.ipython.org/github/josephmisiti/kaggle-movie-sentiment/blob/master/Exploration.ipynb
